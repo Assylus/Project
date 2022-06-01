@@ -1,2 +1,2 @@
 # Project
-Projeto usado clonado para fins acadêmicos 
+Projeto clonado para fins acadêmicos 
